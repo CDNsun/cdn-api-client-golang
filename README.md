@@ -8,6 +8,13 @@ CDN API DOCUMENTATION
 
 https://cdnsun.com/knowledgebase/api
 
+BUILD
+
+To build the **test.go** go to the directory containing it and run the following command:
+```  
+go build
+```
+
 CLIENT USAGE
 
 * Initialize the client
